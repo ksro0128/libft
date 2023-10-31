@@ -6,7 +6,7 @@
 /*   By: surkim <surkim@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/03/13 14:58:11 by surkim            #+#    #+#             */
-/*   Updated: 2023/03/13 15:28:26 by surkim           ###   ########.fr       */
+/*   Updated: 2023/10/31 10:40:25 by surkim           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -23,7 +23,6 @@ size_t	ft_strlen(const char *s)
 }
 /*
 #include <stdio.h>
-#include <string.h>
 
 int	main(int c, char *v[])
 {
